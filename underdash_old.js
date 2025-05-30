@@ -14,7 +14,7 @@ const _ = {};
  * "identity"
  *
  * (identity 함수는 수학 용어입니다.)
- *
+ 
  * https://lodash.com/docs/4.17.15#identity
  *
  *
